@@ -347,7 +347,7 @@ button {
 }
 
 .study__cards-left{
-  background-image: url(./images/study-back.png);
+  background-image: url(../images/study-back.png);
   background-size: contain;
   background-repeat: no-repeat;
   width: 919px;
